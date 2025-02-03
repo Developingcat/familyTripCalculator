@@ -1,0 +1,31 @@
+How does the code start? 
+
+The code will begin by welcoming the user, kind of similar to how the example case has it 
+Possibly a print statement with aski art? 
+Like 
+
+print("###############################")
+print("###############################")
+print("###      Welcome to         ###")
+print("###   Family Trip Budget    ###")
+print("################################) 
+print("###############################")
+
+Then it'll ask for the cost like the following 
+
+input(int("Please enter the desired budget: "))
+
+input(int("Please enter the airfare cost per the person: "))
+
+input(int("Please enter the amount of days you'll be staying: "))
+
+input(int("Please enter the daily food budget estimate: ")) Because nobody would know the exact price of food daily, so I guess an estimate would make more sense there?
+
+input(int("Please enter the excursion cost: "))
+
+input(int("Please enter the souvenior budget: "))
+
+
+print alllllll of that 
+
+then determine if the print is within the budget 
